@@ -25,5 +25,5 @@
 
 *(Note: Each folder contains the custom scripts used and a detailed PDF Technical Report of the laboratory).*
 
-## 👥 Acknowledgments & Team
+## Acknowledgments & Team
 These technical laboratories and security audits were developed as part of the Computer Security coursework at Universidad de Sevilla, in collaboration with my colleague Alejandro Fernández Orozco.
